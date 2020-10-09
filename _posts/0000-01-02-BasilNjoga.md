@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+u so icy im a glacier boy
 Use the left arrow to go back!
